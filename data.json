@@ -1,0 +1,37 @@
+{
+	"page1Data": [{
+			"id": 1,
+			"text": "Multi-layered client-server neural-net1",
+			"message": "harness real-time e-markets1"
+		},
+		{
+			"id": 2,
+			"text": "Multi-layered client-server neural-net2",
+			"message": "harness real-time e-markets2"
+		},
+		{
+			"id": 3,
+			"text": "Multi-layered client-server neural-net3",
+			"message": "harness real-time e-markets3"
+		}
+	],
+	"page2Data": [{
+			"id": 1,
+			"name": "Leanne Graham1",
+			"username": "Bret1",
+			"email": "Sincere1@april.biz"
+		},
+		{
+			"id": 2,
+			"name": "Leanne Graham2",
+			"username": "Bret2",
+			"email": "Sincere2@april.biz"
+		},
+		{
+			"id": 3,
+			"name": "Leanne Graham3",
+			"username": "Bret3",
+			"email": "Sincere3@april.biz"
+		}
+	]
+}
